@@ -33,7 +33,7 @@ Skill Showcase
   - HandGrenade
   - Shield
   - HealthBoost
-![Gameplay Screenshot]([https://github.com/Latu0312/Zombie-Survival---Last-Night/blob/main/Gameplay.png](https://github.com/Latu0312/Zombie-Survival---Last-Night/blob/main/ShopPic.png))
+![Gameplay Screenshot]((https://github.com/Latu0312/Zombie-Survival---Last-Night/blob/main/ShopPic.png))
 
 
 ## 🚀 How to Play

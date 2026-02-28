@@ -5,7 +5,7 @@ Welcome to **Zombie-Survival---Last-Nightr** – an intense action-packed game w
 
 ---
 Download Link: [https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/13Qm8z6xh8_OUAKyq3RZKkA7qYOi46Vpa/view?usp=sharing)
-
+![Gameplay Screenshot](https://github.com/Latu0312/Zombie-Survival---Last-Night/blob/main/Background.png)
 ## 🎮 Game Features
 
 - **Weapons Arsenal**: 5 unique guns, each with different playstyles.
@@ -23,9 +23,7 @@ Download Link: [https://drive.google.com/drive/u/0/home](https://drive.google.co
 ---
 
 ## 📸 Screenshots
-
-![Gameplay Screenshot](<img width="2558" height="1243" alt="GameBackGround" src="https://github.com/user-attachments/assets/f27a60d4-f26d-4af2-a5fd-e9c8ad6e0313" />
-)  
+![Gameplay Screenshot](https://github.com/Latu0312/Zombie-Survival---Last-Night/blob/main/Gameplay.png)
 *Intense battle against waves of zombies.*
 
 Weapons Showcase
@@ -35,7 +33,7 @@ Skill Showcase
   - HandGrenade
   - Shield
   - HealthBoost
-
+![Gameplay Screenshot]([https://github.com/Latu0312/Zombie-Survival---Last-Night/blob/main/Gameplay.png](https://github.com/Latu0312/Zombie-Survival---Last-Night/blob/main/ShopPic.png))
 
 
 ## 🚀 How to Play
